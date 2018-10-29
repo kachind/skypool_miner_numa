@@ -1,0 +1,16 @@
+const config =
+{
+  "address": "NQ65 X7M7 NM00 X0T8 DD88 L1RC UE8K TG2R S56D",
+  "name": "*",
+  "thread": 64,
+  "percent": 100,
+  "cpu": "extreme",
+  "server": [
+	"ws://us1.nimiq.skypool.org:4000"
+	"ws://eu1.nimiq.skypool.org:4000"
+    "ws://hk0.nimiq.skypool.org:4000",
+    "ws://hk1.nimiq.skypool.org:4000",
+    "ws://sh0.nimiq.skypool.org:4000",
+  ]
+}
+module.exports = config;
