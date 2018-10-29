@@ -6,8 +6,8 @@ const config =
   "percent": 100,
   "cpu": "extreme",
   "server": [
-	"ws://us1.nimiq.skypool.org:4000"
-	"ws://eu1.nimiq.skypool.org:4000"
+	"ws://us1.nimiq.skypool.org:4000",
+	"ws://eu1.nimiq.skypool.org:4000",
     "ws://hk0.nimiq.skypool.org:4000",
     "ws://hk1.nimiq.skypool.org:4000",
     "ws://sh0.nimiq.skypool.org:4000",
